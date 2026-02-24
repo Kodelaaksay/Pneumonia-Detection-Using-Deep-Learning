@@ -88,7 +88,7 @@ Pneumonia/
 ### 1️⃣ Clone the Repository
 
 ```bash
-cd /Users/anuragthippani/Documents/programs/Pneumonia
+cd /Users/kodelaakshay/Documents/programs/Pneumonia
 ```
 
 ### 2️⃣ Setup Environment Variables
